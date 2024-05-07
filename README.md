@@ -8,5 +8,8 @@
 P330/M920X/M920Q/M720Q
 该efi使用uhd 630核显驱动
 
+## 设备信息-Macmini
+![][image-2]
 
 [image-1]:	images/p330-model.webp
+[image-2]:	images/info.png
